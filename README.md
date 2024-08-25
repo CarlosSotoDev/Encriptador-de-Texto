@@ -211,7 +211,7 @@ function desencriptar() {
 
 ## Visualizacion:
 **Encriptado**
-![alt text](img/image.png)
+![alt text](IMG/image.png)
 **Desencriptado**
-![alt text](img/image-1.png)
+![alt text](IMG/image-1.png)
 
